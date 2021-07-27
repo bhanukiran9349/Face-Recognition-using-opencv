@@ -1,4 +1,4 @@
-# Face-Recognition-using-opencv
+# Face-Recognition-using-opencv(Smart Home Appliances)
 
 INTRODUCTION
 
